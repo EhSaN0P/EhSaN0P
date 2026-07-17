@@ -1,15 +1,21 @@
-<h1 align="center">Hi 👋, I'm ehsan mogouie</h1>
-<h3 align="center">A FullStack & AI developer</h3>
+# 💫 About Me:
+# Hi, I'm Ehsan 👋<br><br>Backend Developer | Laravel & PHP<br>Learning React, Node.js and System Design<br><br>---<br><br>## 🚀 About Me<br><br>I'm an IT student passionate about building scalable web applications.<br>Currently focusing on Laravel, React, and software architecture.<br><br>---<br><br>## 🛠 Tech Stack<br><br>### Backend<br>- PHP<br>- Laravel<br>- Node.js<br><br>### Frontend<br>- React<br>- JavaScript<br>- Tailwind CSS<br>- Bootstrap<br><br>### Database<br>- MySQL<br>- SQLite<br><br>### Tools<br>- Git<br>- Docker<br>- VS Code<br>- Postman<br><br>---<br><br>## 📂 Featured Projects<br><br>### 🚗 Vehicle Management System<br>A complete vehicle management system built with Laravel.<br><br>### 🛒 RotiKala<br>E-commerce website with authentication, admin panel and shopping cart.<br><br>---<br><br>## 📈 GitHub Stats<br><br> <br>---<br><br>## 📫 Contact<br><br>Email:<br>LinkedIn:<br>Portfolio:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsan0p&label=Profile%20views&color=0e75b6&style=flat" alt="ehsan0p" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehsan0p" alt="ehsan0p" /></a> </p>
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username= EhSaN0P&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user= EhSaN0P&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username= EhSaN0P&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username= EhSaN0P&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsan0p&show_icons=true&locale=en&layout=compact" alt="ehsan0p" /></p>
+---
+[![](https://komarev.com/ghpvc/?username= EhSaN0P&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
