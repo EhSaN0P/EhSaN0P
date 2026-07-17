@@ -1,7 +1,9 @@
 <h1 align="center">
 Hi 👋 I'm Ehsan
 </h1>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Laravel+Enthusiast;React+Learner;System+Design+Explorer;AI+Explorer" />
+</p>
 <h3 align="center">
 Backend Developer • Laravel Enthusiast • Software Engineering Student
 </h3>
