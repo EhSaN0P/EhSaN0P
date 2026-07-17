@@ -1,139 +1,207 @@
-<h1 align="center">
-Hi 👋 I'm Ehsan
-</h1>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Laravel+Enthusiast;React+Learner;System+Design+Explorer;AI+Explorer" />
-</p>
-<h3 align="center">
-Backend Developer • Laravel Enthusiast • Software Engineering Student
-</h3>
+<div align="center">
 
-<p align="center">
-Building scalable web applications with Laravel.<br>
-Currently learning React, System Design, DevOps and AI.
-</p>
+# EHSAN
 
----
+### Software Engineer • AI Builder • Product Creator
 
-# 🚀 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=Building+Products+People+Actually+Use;Laravel+•+AI+•+Cloud+•+React;Automation+%26+AI+Agents;Electron+Desktop+Applications;Interactive+3D+Experiences;Never+Stop+Learning"/>
 
-- 💻 Backend Developer specialized in **Laravel & PHP**
-- ⚛️ Currently learning **React Ecosystem**
-- 🧠 Interested in **System Design**, **Software Architecture**, and **DevOps**
-- 🤖 Exploring **Artificial Intelligence** and AI-powered applications
-- 🚀 Building products instead of just writing code
-- 📚 Always learning new technologies
+<br>
+
+> *"Build systems. Not just software."*
+
+</div>
 
 ---
 
-# 🛠 Tech Stack
+# WHO AM I
+
+```ts
+const ehsan = {
+
+    role: "Software Engineer",
+
+    location: "Tehran, Iran",
+
+    passion: [
+        "Building Products",
+        "Backend Engineering",
+        "Artificial Intelligence",
+        "Automation",
+        "Cloud Computing",
+        "Developer Experience"
+    ],
+
+    currentlyLearning: [
+        "System Design",
+        "DevOps",
+        "Cloud",
+        "Distributed Systems",
+        "AI Engineering"
+    ],
+
+    hobbies: [
+        "Gym",
+        "Technology",
+        "Startups",
+        "Gaming"
+    ],
+
+    lifeGoal:
+        "Create products that solve real problems."
+}
+```
+
+---
+
+# CURRENT MISSION
+
+> Building modern software powered by AI.
+
+Currently exploring:
+
+- 🤖 AI Agents
+- ☁ Cloud Computing
+- ⚡ Laravel Internals
+- 🧠 Software Architecture
+- 🚀 Product Engineering
+- 🎨 Three.js
+- 🖥 Electron
+- 🔥 DevOps
+- 🧩 Automation
+
+---
+
+# TECH ARSENAL
 
 ## Backend
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![REST API](https://img.shields.io/badge/REST_API-black?style=for-the-badge)
+
+---
 
 ## Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron)
+
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
+
+---
+
+## Artificial Intelligence
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google)
+
+![Cursor](https://img.shields.io/badge/Cursor-black?style=for-the-badge)
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-blue?style=for-the-badge)
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?style=for-the-badge)
+
+![MCP](https://img.shields.io/badge/MCP-0F172A?style=for-the-badge)
+
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
+
+---
+
+## Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
 
 ## Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 
-## Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 
 ---
 
-# 📌 Current Focus
+# MY MINDSET
 
-- Laravel Advanced
-- RESTful APIs
-- React
-- Clean Architecture
-- System Design
-- Docker
-- AI Integration
+```text
+Think.
 
----
+Design.
 
-# 🚀 Featured Projects
+Build.
 
-## 🎵 Musix
+Automate.
 
-A modern music streaming platform built with Laravel & React.
+Scale.
 
-### Features
-
-- Authentication
-- Music Library
-- Search
-- Playlist
-- REST API
+Repeat.
+```
 
 ---
 
-## 🛒 RotiKala
+# NOW EXPLORING
 
-Modern E-commerce platform inspired by DigiKala.
+```yaml
+AI Engineering: ███████████░ 85%
 
-### Features
+Laravel: ██████████████ 95%
 
-- Authentication
-- Shopping Cart
-- Product Variants
-- Admin Panel
-- Order Management
+React: █████████░░░░ 75%
 
----
+Three.js: ███████░░░░░░ 60%
 
-## 🚗 Vehicle Management System
+Electron: ████████░░░░░ 65%
 
-Laravel-based vehicle management application with CRUD operations and dashboard.
+Cloud: ██████░░░░░░░ 50%
 
----
+DevOps: ██████░░░░░░░ 55%
 
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=EhSaN0P&theme=tokyonight&hide_border=true&show_icons=true)
-
-![](https://streak-stats.demolab.com/?user=EhSaN0P&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=EhSaN0P&theme=tokyonight&layout=compact&hide_border=true)
+System Design: ████████░░░░ 70%
+```
 
 ---
 
-# 🎯 2026 Goals
+# GITHUB STATS
 
-- 🚀 Build SaaS Products
-- 🤖 Learn AI Engineering
-- ⚙️ Master System Design
-- ☁️ Learn DevOps
-- 🎮 Start Unreal Engine Development
-- 🌍 Contribute to Open Source
+![](https://github-readme-stats.vercel.app/api?username=EhSaN0P&show_icons=true&theme=github_dark&hide_border=true)
 
----
-![](https://komarev.com/ghpvc/?username=EhSaN0P&style=for-the-badge&color=blue)
+![](https://github-readme-streak-stats.herokuapp.com/?user=EhSaN0P&theme=github-dark&hide_border=true)
 
-# 📫 Connect With Me
-
-- 📧 Email:
-- 💼 LinkedIn:
-- 🌐 Portfolio:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EhSaN0P&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-> *"Great software isn't just written — it's engineered."*
+# VISITORS
+
+![](https://komarev.com/ghpvc/?username=EhSaN0P&style=for-the-badge&color=58A6FF)
+
+---
+
+<div align="center">
+
+## Let's Build Something Awesome 🚀
+
+</div>
 
 ![Snake animation](https://github.com/EhSaN0P/EhSaN0P/blob/output/github-contribution-grid-snake.svg)
-
-
