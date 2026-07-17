@@ -122,6 +122,7 @@ Laravel-based vehicle management application with CRUD operations and dashboard.
 - 🌍 Contribute to Open Source
 
 ---
+![](https://komarev.com/ghpvc/?username=EhSaN0P&style=for-the-badge&color=blue)
 
 # 📫 Connect With Me
 
@@ -132,3 +133,7 @@ Laravel-based vehicle management application with CRUD operations and dashboard.
 ---
 
 > *"Great software isn't just written — it's engineered."*
+
+![Snake animation](https://github.com/EhSaN0P/EhSaN0P/blob/output/github-contribution-grid-snake.svg)
+
+
