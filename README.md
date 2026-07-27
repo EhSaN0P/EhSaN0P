@@ -2,7 +2,7 @@
 
 # EHSAN
 
-### Software Engineer • AI Builder • Product Creator
+### Software Developer • AI Builder • Product Creator
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=Building+Products+People+Actually+Use;Laravel+•+AI+•+Cloud+•+React;Automation+%26+AI+Agents;Electron+Desktop+Applications;Interactive+3D+Experiences;Never+Stop+Learning"/>
 
@@ -19,7 +19,7 @@
 ```ts
 const ehsan = {
 
-    role: "Software Engineer",
+    role: "Software Developer",
 
     location: "Tehran, Iran",
 
@@ -28,15 +28,13 @@ const ehsan = {
         "Backend Engineering",
         "Artificial Intelligence",
         "Automation",
-        "Cloud Computing",
-        "Developer Experience"
+         "Developer Experience"
     ],
 
     currentlyLearning: [
         "System Design",
         "DevOps",
-        "Cloud",
-        "Distributed Systems",
+         "Distributed Systems",
         "AI Engineering"
     ],
 
@@ -119,12 +117,7 @@ Currently exploring:
 ---
 
 ## Cloud & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
+ 
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
 
@@ -159,28 +152,7 @@ Repeat.
 ```
 
 ---
-
-# NOW EXPLORING
-
-```yaml
-AI Engineering: ███████████░ 85%
-
-Laravel: ██████████████ 95%
-
-React: █████████░░░░ 75%
-
-Three.js: ███████░░░░░░ 60%
-
-Electron: ████████░░░░░ 65%
-
-Cloud: ██████░░░░░░░ 50%
-
-DevOps: ██████░░░░░░░ 55%
-
-System Design: ████████░░░░ 70%
-```
-
----
+ 
 
 # GITHUB STATS
 
