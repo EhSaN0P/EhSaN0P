@@ -24,8 +24,7 @@ const ehsan = {
     location: "Tehran, Iran",
 
     passion: [
-        "Building Products",
-        "Backend Engineering",
+         "Development",
         "Artificial Intelligence",
         "Automation",
          "Developer Experience"
@@ -59,13 +58,11 @@ const ehsan = {
 Currently exploring:
 
 - 🤖 AI Agents
-- ☁ Cloud Computing
 - ⚡ Laravel Internals
 - 🧠 Software Architecture
 - 🚀 Product Engineering
 - 🎨 Three.js
 - 🖥 Electron
-- 🔥 DevOps
 - 🧩 Automation
 
 ---
@@ -114,10 +111,7 @@ Currently exploring:
 
 ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
 
----
-
-## Cloud & DevOps
- 
+--- 
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
 
@@ -131,8 +125,7 @@ Currently exploring:
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-
+ 
 ---
 
 # MY MINDSET
